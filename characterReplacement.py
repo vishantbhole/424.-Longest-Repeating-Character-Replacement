@@ -21,3 +21,7 @@ if __name__ == "__main__":
     s = "ABAB"
     k = 2
     print("Output is : ", sol.characterReplacement(s,k))
+
+    s2 = "AABABBA"
+    k2 = 1
+    print("Output is : ", sol.characterReplacement(s2,k2))
